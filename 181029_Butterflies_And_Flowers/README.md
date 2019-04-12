@@ -1,8 +1,6 @@
 # Butterflies_And_Flowers
 > 나비가 민들레와 친구가 되는 방법  
 > How Butterflies Become Friends with Dandelions.  
-  
-## Butterflies_And_Flowers
 
 ![butterfliesAndFlowersImages1](./img/1.jpg)  
 ![butterfliesAndFlowersImages1](./img/2.jpg)  
