@@ -26,8 +26,7 @@ You can see it running on [Youtube](https://www.youtube.com/watch?v=l9yPad29zv0)
 
 ### AIproject
 
-![AIproject1](./191213_AIproject/img/1.jpg)  
-![AIproject2](./191213_AIproject/img/2.jpg)  
+![AIproject1](./191213_AIproject/img/2.jpg)  
 구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=R6CeMo8WluY)에서 확인하실 수 있습니다.  
 You can see it running on [Youtube](https://www.youtube.com/watch?v=R6CeMo8WluY)  
 
