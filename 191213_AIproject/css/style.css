@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Playball');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900');
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+/* font-family: 'Playfair Display', serif; */
+
+@import url('https://fonts.googleapis.com/css?family=Exo|Open+Sans');
+ 
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul, li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+/* #contents > div {
+	height: 100vh;
+	line-height: 100vh;
+}
+*/
+
+#contents {
+	position: relative;
+	
+}
+
+#section1 {
+	margin-top: 0;
+}
+
+#section1.show {
+	opacity: 1;
+	transition: all 1s ease-in-out;
+}
+
+.introduce {
+
+	top: 7rem;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight: 600;
+	position: absolute;
+	display: flex;
+	left:50%;
+	transform:translateX(-50%);
+	justify-content: center;
+	text-align: center;
+	font-size: 3rem;
+	line-height: 4.5rem;
+	/* color: #222; */
+	
+
+}
+
+#introduce_2 {
+	box-sizing: none;
+	border-radius: 0;
+	top: 48.5rem;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight: 500;
+	position: absolute;
+	display: flex;
+	left:50%;
+	transform:translateX(-50%);
+	justify-content: center;
+	text-align: center;
+	font-size: 2.5rem;
+	line-height: 3.5rem;
+	color: #222;
+	
+
+}
+
+#canvas {
+	position : absolute;
+}
+
+@keyframes Opa {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+.introduce {
+	animation: Opa 3s ease-in-out;
+}
+
+#introduce_2 {
+	animation: Opa 3s ease-in-out;
+}
+
