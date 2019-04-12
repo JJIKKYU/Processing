@@ -1,5 +1,5 @@
 # DrawYourPhoto
-> 사진을 세상에서 하나뿐인 그림으로 만들어보세요.
+> 사진을 세상에서 하나뿐인 그림으로 만들어보세요.  
 > Make a picture of the only one in the world.
 
 ![DrawYourPhoto1](./img/1.jpg)  
