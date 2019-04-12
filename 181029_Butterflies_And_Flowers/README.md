@@ -6,8 +6,8 @@
 
 ![butterfliesAndFlowersImages1](./img/1.jpg)  
 ![butterfliesAndFlowersImages1](./img/2.jpg)  
-![butterfliesAndFlowersImages1](./img/3.jpg)  
 구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=l9yPad29zv0)에서 확인하실 수 있습니다.  
+You can see it running on [Youtube](https://www.youtube.com/watch?v=l9yPad29zv0)  
   
 ## 정보 (Information)
 
