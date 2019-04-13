@@ -1,11 +1,13 @@
 # 비주얼 프로그래밍(visual Programming)
-> 홍익대학교에서 수업시간에 제작한 프로세싱 작업입니다.  
+> 홍익대학교 수업시간에 제작한 프로세싱을 이용한 비주얼프로그래밍 작업입니다.  
 > This is a processing work made during class at Hongik University.  
   
 ## 설치 방법 (Installation Method)
 
-MIT에서 제공하는 프로세싱을 다운 받은 뒤 작업을 실행합니다.  
-After you download the processing provided by MIT, run the task.  
+프로세싱을 다운 받은 뒤 작업을 실행하면 P5.js를 제외한 프로세싱 작업은 실행됩니다.  
+그 외 별도의 실행 방법이 필요할 경우 각 프로젝트에서 설명하고 있습니다.  
+When you download the processing, the processing operation runs except P5.js.  
+Other implementation methods are described in each project if necessary.  
 [Processing](https://processing.org/)
   
 ## 업로드 내역 (Upload History)
