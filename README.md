@@ -24,24 +24,30 @@ Other implementation methods are described in each project if necessary.
 
 ![butterfliesAndFlowersImages](./181029_Butterflies_And_Flowers/img/1.jpg)  
 구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=l9yPad29zv0)에서 확인하실 수 있습니다.  
-You can see it running on [Youtube](https://www.youtube.com/watch?v=l9yPad29zv0)  
+You can see it running on [Youtube](https://www.youtube.com/watch?v=l9yPad29zv0).  
 
 ### AIproject
 
 ![AIproject1](./181213_AIproject/img/2.jpg)  
 구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=R6CeMo8WluY)에서 확인하실 수 있습니다.  
-You can see it running on [Youtube](https://www.youtube.com/watch?v=R6CeMo8WluY)  
+You can see it running on [Youtube](https://www.youtube.com/watch?v=R6CeMo8WluY).  
 
 ### DrawYourPhoto
 
 ![drawYourPhotoImages](./190411_DrawYourPhoto/img/1.jpg)  
 구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=q8hBu7vh1_g)에서 확인하실 수 있습니다.  
-You can see it running on [Youtube](https://www.youtube.com/watch?v=q8hBu7vh1_g)  
+You can see it running on [Youtube](https://www.youtube.com/watch?v=q8hBu7vh1_g).  
   
+
+### Hpoe : 희망
+  
+![HopeImages](./190522/img/1.jpg)
+구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=nQX80HPWdNE)에서 확인하실 수 있습니다.  
+You can see it running on [Youtube](https://www.youtube.com/watch?v=nQX80HPWdNE).  
+
 ## 정보 (Information)
 
 정진균 (jin gyun, Jeong), JJIKKYU  
 jjinggu96@gmail.com  
-[https://jjikkyu.com](https://jjikkyu.com)  
 
 
