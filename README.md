@@ -41,7 +41,7 @@ You can see it running on [Youtube](https://www.youtube.com/watch?v=q8hBu7vh1_g)
 
 ### Hpoe : 희망
   
-![HopeImages](./190522/img/1.jpg)
+![HopeImages](./190522_Hope/img/1.jpg)
 구동되는 모습은 [Youtube](https://www.youtube.com/watch?v=nQX80HPWdNE)에서 확인하실 수 있습니다.  
 You can see it running on [Youtube](https://www.youtube.com/watch?v=nQX80HPWdNE).  
 
