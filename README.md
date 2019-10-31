@@ -8,15 +8,7 @@
 그 외 별도의 실행 방법이 필요할 경우 각 프로젝트에서 설명하고 있습니다.  
 When you download the processing, the processing operation runs except P5.js.  
 Other implementation methods are described in each project if necessary.  
-[Processing](https://processing.org/)
-  
-## 업로드 내역 (Upload History)
-
-* 190412
-    * Upload : Butterflies_And_Flowers
-    * Upload : DrawYourPhoto
-* 190413
-    * Upload : AIproject
+[Processing](https://processing.org/)  
   
 ## 작품 목록 (List of works)
   
